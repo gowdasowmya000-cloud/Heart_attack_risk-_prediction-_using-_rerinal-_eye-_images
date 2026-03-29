@@ -21,7 +21,6 @@ This project aims to predict the risk of heart attack using retinal eye images. 
 ## How to Run
 
 1. Clone the repository
-   git clone https://github.com/yourusername/project-name.git
 
 2. Install dependencies
    pip install -r requirements.txt
